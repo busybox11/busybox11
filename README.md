@@ -12,9 +12,9 @@ I like programming (especially in Python, but I also do a bit of JS), web design
 ## you can find me here online:
 - discord: `busybox#2540`,
 - reddit: [`u/busybox11`](https://reddit.com/u/busybox11),
-- dribbble: (`@busybox`)[https://dribbble.com/busybox],
-- instagram: (`@busybox11`)[https://instagram.com/busybox11],
-- twitter: (`@busybox11`)[https://twitter.com/busybox11],
-- spotify: (`R3M`)[https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m]
+- dribbble: [`@busybox`](https://dribbble.com/busybox),
+- instagram: [`@busybox11`](https://instagram.com/busybox11),
+- twitter: [`@busybox11`](https://twitter.com/busybox11),
+- spotify: [`R3M`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
 
 Fell free to contact me if you want to.
