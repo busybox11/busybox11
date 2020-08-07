@@ -11,7 +11,7 @@ I like programming (especially in Python, but I also do a bit of JS), web design
 - [localmusic-api](https://github.com/busybox11/localmusic-api), a WIP REST APi for now playing local music information
 
 ## you can find me here online:
-- discord: `busybox#2540`,
+- discord: `busybox#2540` - my [projects Discord server](https://discord.gg/DMmk8Sc),
 - reddit: [`u/busybox11`](https://reddit.com/u/busybox11),
 - dribbble: [`@busybox`](https://dribbble.com/busybox),
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
