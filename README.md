@@ -5,7 +5,7 @@ I like programming (especially in Python, but I also do a bit of JS), web design
 ## here are some of my projects.
 - [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplaying.ga](https://nowplaying.ga)
 - [Probote](https://github.com/busybox11/probote), a Discord bot for Pronote notifications (a french school management website)
-- [My Linux dotfiles](https://github.com/busybox11/dotfiles), as long as my [polybar config](https://github.com/busybox11/spotify-polybar)
+- [My Linux dotfiles](https://github.com/busybox11/dotfiles), alongside of my [polybar config](https://github.com/busybox11/spotify-polybar)
 - [localmusic-api](https://github.com/busybox11/localmusic-api), a WIP REST API for now playing local music information
 - [My portfolio](https://github.com/busybox11/busybox11.github.io), available at [busybox11.github.io](https://busybox11.github.io)
 - [blockr](https://github.com/busybox11/blockr), a WIP ads and page blocker browser extension (**WARNING**: does not fully work!)
