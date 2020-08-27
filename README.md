@@ -11,7 +11,7 @@ I like programming (especially in Python, but I also do a bit of JS), web design
 - [blockr](https://github.com/busybox11/blockr), a WIP ads and page blocker browser extension (**WARNING**: does not fully work!)
 
 ## i'm also present here:
-- [AideEducation](https://aideeducation.fr/), a french Discord server to help people with their homeworks, lessons, orientation... [Developer, graphic designer, community manager (sometimes) and manager of the development team]
+- [AideEducation](https://aideeducation.fr/), a french Discord server to help people with their homeworks, lessons, orientation... [Developer, graphic designer, former community manager (sometimes) and manager of the development team]
 - [StreamRunners](https://streamrunners.fr/affiliate/busybox11), a French site that helps streamers to have more viewers, who win prizes for this [Web developer, UI / UX helper]
 - [TechCord](https://discord.gg/svZ2PSm), a French tech Discord server [Founder, administrator]
 
