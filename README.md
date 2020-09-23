@@ -3,7 +3,7 @@ I'm busybox(11), a 15yo French student, but also tech addict.
 I like programming (especially in Python, but I also do a bit of JS), web designing (HTML, CSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
 
 ## here are some of my projects.
-- [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplaying.ga](https://nowplaying.ga)
+- [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplayi.ng](https://nowplayi.ng)
 - [Probote](https://github.com/busybox11/probote), a Discord bot for Pronote notifications (a french school management website). [I'm currently rewriting it in node.](https://github.com/busybox11/probote-v2)
 - [insta-discord](https://github.com/busybox11/insta-discord), an Instagram integration for Discord
 - [My Linux dotfiles](https://github.com/busybox11/dotfiles), alongside of my [polybar config](https://github.com/busybox11/spotify-polybar)
