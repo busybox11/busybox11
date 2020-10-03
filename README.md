@@ -22,6 +22,6 @@ I like programming (especially in Python, but I also do a bit of JS), web design
 - dribbble: [`@busybox`](https://dribbble.com/busybox),
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
 - twitter: [`@busybox11`](https://twitter.com/busybox11),
-- spotify: [`R3M`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
+- spotify: [`busybox`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
 
 Fell free to contact me if you want to.
