@@ -26,3 +26,5 @@ I love programming: back-end (with Python and NodeJS), web designing (HTML, CSS)
 - spotify: [`busybox`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
 
 Fell free to contact me if you want to.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yha0gdu9143vclyk0cuqoro0m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
