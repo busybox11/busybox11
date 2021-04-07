@@ -1,5 +1,5 @@
 ### hi there
-I'm busybox(11), a 15yo French student, but also tech addict.
+I'm busybox(11), a 16yo French student, but also tech addict.
 I love programming: back-end (with Python and NodeJS), web designing (HTML, CSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
 
 ## here are some of my projects.
