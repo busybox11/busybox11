@@ -1,6 +1,7 @@
 ### hi there
 I'm busybox(11), a 16yo French student, but also tech addict.
-I love programming: back-end (with Python and NodeJS), web designing (HTML, CSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
+I do back-end (with Python and NodeJS), web designing (HTML, CSS - also using frameworks like TailwindCSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
+Spotify is my will to live. Praise Spotify.
 
 ## here are some of my projects.
 - [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplayi.ng](https://nowplayi.ng)
@@ -22,7 +23,7 @@ I love programming: back-end (with Python and NodeJS), web designing (HTML, CSS)
 - reddit: [`u/busybox11`](https://reddit.com/u/busybox11),
 - dribbble: [`@busybox`](https://dribbble.com/busybox),
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
-- twitter: [`@busybox11`](https://twitter.com/busybox11),
+- twitter: [`@chaoticvibing`](https://twitter.com/chaoticvibing),
 - spotify: [`busybox`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
 
 Fell free to contact me if you want to.
