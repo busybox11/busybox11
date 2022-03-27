@@ -1,5 +1,6 @@
 ### hi there
-I'm busybox(11), a 16yo French student, but also tech addict.
+I'm busybox(11), a 17yo French student, but also tech addict.
+
 I do back-end (with Python and NodeJS), web designing (HTML, CSS - also using frameworks like TailwindCSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
 Spotify is my will to live. Praise Spotify.
 
@@ -20,11 +21,9 @@ Spotify is my will to live. Praise Spotify.
 
 ## you can find me here online:
 - discord: `busybox#2540` - my [projects Discord server](https://discord.gg/DMmk8Sc),
-- reddit: [`u/busybox11`](https://reddit.com/u/busybox11),
 - dribbble: [`@busybox`](https://dribbble.com/busybox),
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
-- twitter: [`@chaoticvibing`](https://twitter.com/chaoticvibing),
-- spotify: [`busybox`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
+- spotify: [`busy`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
 
 Fell free to contact me if you want to.
 
