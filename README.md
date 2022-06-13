@@ -11,7 +11,6 @@ Spotify is my will to live. Praise Spotify.
 - [codesearch](https://github.com/busybox11/codesearch), a browser extension that shows StackOverflow posts' best answers in a Google Search card
 - [My Linux dotfiles](https://github.com/busybox11/dotfiles), alongside of my [polybar config](https://github.com/busybox11/spotify-polybar)
 - [localmusic-api](https://github.com/busybox11/localmusic-api), a WIP REST API for now playing local music information
-- [My portfolio](https://github.com/busybox11/busybox11.github.io), available at [busybox11.github.io](https://busybox11.github.io)
 - [blockr](https://github.com/busybox11/blockr), a WIP ads and page blocker browser extension (**WARNING**: does not fully work!)
 
 ## i'm also present here:
