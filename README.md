@@ -22,7 +22,8 @@ Spotify is my will to live. Praise Spotify.
 - discord: `busybox#2540` - my [projects Discord server](https://discord.gg/DMmk8Sc),
 - dribbble: [`@busybox`](https://dribbble.com/busybox),
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
-- spotify: [`busy`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
+- spotify: [`busy`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m),
+- lastfm: [`busybox11`](https://www.last.fm/user/busybox11)
 
 Fell free to contact me if you want to.
 
