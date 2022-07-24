@@ -27,4 +27,4 @@ Spotify is my will to live. Praise Spotify.
 
 Fell free to contact me if you want to.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yha0gdu9143vclyk0cuqoro0m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![MyPlaying](https://dev.rchartier.dev/myplaying/playing/img?1)](https://github.com/busybox11/MyPlaying)
