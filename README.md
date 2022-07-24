@@ -27,4 +27,4 @@ Spotify is my will to live. Praise Spotify.
 
 Fell free to contact me if you want to.
 
-[![MyPlaying](https://dev.rchartier.dev/myplaying/playing/img?1)](https://github.com/busybox11/MyPlaying)
+[![MyPlaying](https://dev.rchartier.dev/myplaying/playing/img?hideGithubLogo)](https://github.com/busybox11/MyPlaying)
