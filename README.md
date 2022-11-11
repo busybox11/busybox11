@@ -4,6 +4,12 @@ I'm busybox(11), a 17yo French student, but also tech addict.
 I do back-end (with Python and NodeJS), web designing (HTML, CSS - also using frameworks like TailwindCSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
 Spotify is my will to live. Praise Spotify.
 
+## author of the nerd twitter blue check
+[get the script here!](https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3)
+
+[![Screenshot of a Twitter thread](https://user-images.githubusercontent.com/29630035/201382364-066c5779-9e7a-4c44-821f-6352786f0ba8.png)](https://twitter.com/chaoticvibing/status/1590484635968221184?s=20&t=wWP5MIxtcsKpP7lmqEADvA)
+
+
 ## here are some of my projects.
 - [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplayi.ng](https://nowplayi.ng)
 - [Probote v2](https://github.com/busybox11/probote-v2), a Discord bot for Pronote notifications (a french school management website). [Legacy version in python](https://github.com/busybox11/probote)
@@ -24,6 +30,9 @@ Spotify is my will to live. Praise Spotify.
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
 - spotify: [`busy`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m),
 - lastfm: [`busybox11`](https://www.last.fm/user/busybox11)
+
+## donations
+- paypal: [paypal.me/busybox11](https://paypal.me/busybox11) (thank you!)
 
 Fell free to contact me if you want to.
 
