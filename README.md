@@ -1,13 +1,13 @@
 ### hi there
-I'm busybox(11), a 17yo French student, but also tech addict.
+###### 17yo French student intern
 
-I do back-end (with Python and NodeJS), web designing (HTML, CSS - also using frameworks like TailwindCSS), but I'm also a (not professional) graphic designer (using Figma most of the time).
-Spotify is my will to live. Praise Spotify.
+I do back-end (Python, NodeJS, SQL, ArangoDB...), front-end (HTML, CSS, frameworks like React, TailwindCSS...), React Native, but also graphic designing (mostly with Figma).
+Spotify is my will to live.
 
 ## author of the nerd twitter blue check
 [get the script here!](https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3)
 
-[![Screenshot of a Twitter thread](https://user-images.githubusercontent.com/29630035/201382364-066c5779-9e7a-4c44-821f-6352786f0ba8.png)](https://twitter.com/chaoticvibing/status/1590484635968221184?s=20&t=wWP5MIxtcsKpP7lmqEADvA)
+[![Screenshot of a Twitter thread](https://pbs.twimg.com/media/FhKJV1gWAAM-HYU?format=png&name=small)](https://twitter.com/chaoticvibing/status/1590484635968221184?s=20&t=wWP5MIxtcsKpP7lmqEADvA)
 
 
 ## here are some of my projects.
