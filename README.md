@@ -31,8 +31,9 @@ Spotify is my will to live.
 - spotify: [`busy`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m),
 - lastfm: [`busybox11`](https://www.last.fm/user/busybox11)
 
-## donations
-- paypal: [paypal.me/busybox11](https://paypal.me/busybox11) (thank you!)
+## support me (thank you!!)
+- paypal: [paypal.me/busybox11](https://paypal.me/busybox11)
+- kofi: [busybox11](https://ko-fi.com/busybox11)
 
 Fell free to contact me if you want to.
 
