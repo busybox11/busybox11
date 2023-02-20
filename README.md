@@ -1,5 +1,5 @@
 ### hi there
-###### 17yo French student intern
+###### French student intern
 
 I do back-end (Python, NodeJS, SQL, ArangoDB...), front-end (HTML, CSS, frameworks like TailwindCSS, AlpineJS, React...), React Native, but also graphic designing (mostly with Figma).
 Spotify is my will to live.
