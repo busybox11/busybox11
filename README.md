@@ -6,7 +6,7 @@ Spotify is my will to live.
 
 [![Main skills](https://skillicons.dev/icons?i=js,nodejs,alpinejs,react,tailwind,materialui,linux,bash,git,html,css,figma,firebase,electron,github,gitlab,webpack,wordpress&perline=9)](https://github.com/tandpfun/skill-icons)
 
-[![Secondary skills](https://skillicons.dev/icons?i=discord,vercel,cloudflare,vscode,idea,raspberrypi,selenium,twitter,php,bootstrap)](https://github.com/tandpfun/skill-icons)
+[![Secondary skills](https://skillicons.dev/icons?i=discord,vercel,cloudflare,vscode,idea,docker,raspberrypi,selenium,twitter,php,bootstrap)](https://github.com/tandpfun/skill-icons)
 
 ## author of the nerd twitter blue check
 [get the script here!](https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3)
