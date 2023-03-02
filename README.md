@@ -16,10 +16,10 @@ Spotify is my will to live.
 
 ## here are some of my projects.
 - [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplayi.ng](https://nowplayi.ng)
+- [codesearch](https://github.com/busybox11/codesearch), a browser extension that shows StackOverflow posts' best answers in a Google Search card
+- [insta-discord](https://github.com/busybox11/insta-discord), an Instagram integration for Discord
 - [jsontranstool](https://github.com/busybox11/jsontranstool), you guessed it, a translation tool using JSON files, using Electron as a GUI with Tailwind and AlpineJS
 - [Probote v2](https://github.com/busybox11/probote-v2), a Discord bot for Pronote notifications (a french school management website). [Legacy version in python](https://github.com/busybox11/probote)
-- [insta-discord](https://github.com/busybox11/insta-discord), an Instagram integration for Discord
-- [codesearch](https://github.com/busybox11/codesearch), a browser extension that shows StackOverflow posts' best answers in a Google Search card
 - [My Linux dotfiles](https://github.com/busybox11/dotfiles), alongside of my [polybar config](https://github.com/busybox11/spotify-polybar)
 
 ## i'm also present here:
