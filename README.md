@@ -29,7 +29,7 @@ Spotify is my will to live.
 - [TechCord](https://discord.gg/svZ2PSm), a French tech Discord server [Founder, administrator]
 
 ## you can find me here online:
-- discord: `busybox#2540` - my [projects Discord server](https://discord.gg/DMmk8Sc),
+- discord: `busybox11` - my [projects Discord server](https://discord.gg/DMmk8Sc),
 - dribbble: [`@busybox`](https://dribbble.com/busybox),
 - instagram: [`@busybox11`](https://instagram.com/busybox11),
 - spotify: [`busy`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m),
@@ -43,8 +43,8 @@ Fell free to contact me if you want to.
 
 [![MyPlaying](https://busybox.colabois.fr/myplaying/playing/img?hideGithubLogo)](https://github.com/busybox11/MyPlaying)
 
-![](https://hit.yhype.me/github/profile?user_id=29630035)
-
 <p align="center">
   <a href="https://uptime.busybox.colabois.fr/status/projects">Projects status page</a>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=29630035)
