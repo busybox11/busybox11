@@ -1,8 +1,11 @@
 ### hi there
 ###### French student intern
 
-I do back-end (Python, NodeJS, SQL, ArangoDB...), front-end (HTML, CSS, frameworks like TailwindCSS, AlpineJS, React...), React Native, but also graphic designing (mostly with Figma).
-Spotify is my will to live.
+I'm a full stack software developer, working with many technologies and tools.
+
+Also a music addict and Spotify's biggest fan
+
+<b>Check my portfolio here: [busybox.colabois.fr](https://busybox.colabois.fr)</b>
 
 [![Main skills](https://skillicons.dev/icons?i=js,ts,nodejs,alpinejs,react,tailwind,materialui,linux,bash,git,html,css,figma,firebase,electron,github,gitlab,webpack,vue,wordpress&perline=10)](https://github.com/tandpfun/skill-icons)
 
