@@ -7,10 +7,6 @@ Also a music addict and Spotify's biggest fan
 
 <b>Check my portfolio here: [busybox.colabois.fr](https://busybox.colabois.fr)</b>
 
-[![Main skills](https://skillicons.dev/icons?i=js,ts,nodejs,alpinejs,react,tailwind,materialui,linux,bash,git,html,css,figma,firebase,electron,github,gitlab,webpack,vue,wordpress&perline=10)](https://github.com/tandpfun/skill-icons)
-
-[![Secondary skills](https://skillicons.dev/icons?i=nextjs,vercel,cloudflare,vscode,idea,docker,raspberrypi,selenium,twitter,php,bootstrap,discord)](https://github.com/tandpfun/skill-icons)
-
 ## author of the nerd twitter blue check
 [get the script here!](https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3)
 
