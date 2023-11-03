@@ -7,10 +7,16 @@ Also a music addict and Spotify's biggest fan
 
 <b>Check my portfolio here: [busybox.colabois.fr](https://busybox.colabois.fr)</b>
 
-## author of the nerd twitter blue check
+## bring back twitter circles
+[get the script here!](https://gist.github.com/busybox11/d0530e396bd4597a62587032ee55d214)
+
+[![Screenshot of the "Circles" tweet button](https://pbs.twimg.com/media/F99_sn6XkAAggtz?format=png&name=360x360)](https://twitter.com/chaoticvibing/status/1720236177855246581)
+
+
+## nerd twitter blue check
 [get the script here!](https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3)
 
-[![Screenshot of a Twitter thread](https://pbs.twimg.com/media/FhKJV1gWAAM-HYU?format=png&name=small)](https://twitter.com/chaoticvibing/status/1590484635968221184?s=20&t=wWP5MIxtcsKpP7lmqEADvA)
+[![Screenshot of a Twitter thread](https://pbs.twimg.com/media/FhKJV1gWAAM-HYU?format=png&name=small)](https://twitter.com/chaoticvibing/status/1590484635968221184)
 
 
 ## here are some of my projects.
