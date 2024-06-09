@@ -1,7 +1,6 @@
 ### hi there
-###### French student intern
 
-I'm a full stack software developer, working with many technologies and tools.
+I'm a french full-stack software developer, working with many technologies and tools.
 
 Also a music addict and Spotify's biggest fan
 
