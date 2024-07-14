@@ -6,17 +6,27 @@ Also a music addict and Spotify's biggest fan
 
 <b>Check my portfolio here: [busybox.colabois.fr](https://busybox.colabois.fr)</b>
 
-## bring back twitter circles
-[get the script here!](https://gist.github.com/busybox11/d0530e396bd4597a62587032ee55d214)
+---
 
-[![Screenshot of the "Circles" tweet button](https://pbs.twimg.com/media/F99_sn6XkAAggtz?format=png&name=360x360)](https://twitter.com/chaoticvibing/status/1720236177855246581)
+### miscellaneous outdated-and-now-useless twitter userscripts
+<table>
+  <tr>
+    <td>
+      <b>bring back twitter circles</b> - <a href="https://gist.github.com/busybox11/d0530e396bd4597a62587032ee55d214">get the script here!</a>
+      <br />
+      <br />
+      <img src="https://pbs.twimg.com/media/F99_sn6XkAAggtz?format=png&name=360x360" alt="Screenshot of the 'Circles' tweet button" height="200" />
+    </td>
+    <td>
+      <b>nerd twitter blue check</b> - <a href="https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3">get the script here!</a>
+      <br />
+      <br />
+      <img src="https://pbs.twimg.com/media/FhKJV1gWAAM-HYU?format=png&name=small" alt="Screenshot of a Twitter thread" height="200" />
+    </td>
+  </tr>
+</table>
 
-
-## nerd twitter blue check
-[get the script here!](https://gist.github.com/busybox11/53c76f57a577a47a19fab649a76f18e3)
-
-[![Screenshot of a Twitter thread](https://pbs.twimg.com/media/FhKJV1gWAAM-HYU?format=png&name=small)](https://twitter.com/chaoticvibing/status/1590484635968221184)
-
+---
 
 ## here are some of my projects.
 - [NowPlaying for Spotify](https://github.com/busybox11/NowPlaying-for-Spotify), a modern-looking Spotify visualizer, available at [nowplayi.ng](https://nowplayi.ng)
