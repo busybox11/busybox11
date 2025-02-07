@@ -55,7 +55,7 @@ Also a music addict and Spotify's biggest fan
 
 Fell free to contact me if you want to.
 
-[![MyPlaying](https://busybox.colabois.fr/myplaying/playing/img?hideGithubLogo)](https://github.com/busybox11/MyPlaying)
+[![MyPlaying](https://busybox.colabois.fr/myplaying/playing/img?hideGithubLogo=true)](https://github.com/busybox11/MyPlaying)
 
 <p align="center">
   <a href="https://uptime.busybox.colabois.fr/status/projects">Projects status page</a>
